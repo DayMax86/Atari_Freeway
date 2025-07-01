@@ -1,2 +1,6 @@
 # Atari_Freeway
-Uni Reinforcement Learning coursework. Creation of an agent to solve a problem that tabular methods can't.
+Teaching the chicken to cross the road using reinforcement learning methods.
+
+The agent uses DQN and function approximation as a tabular method wouldn't work with such a large state space.
+
+Gymnasium and ALE used for the environment, PyTorch used for the neural netowrk.
